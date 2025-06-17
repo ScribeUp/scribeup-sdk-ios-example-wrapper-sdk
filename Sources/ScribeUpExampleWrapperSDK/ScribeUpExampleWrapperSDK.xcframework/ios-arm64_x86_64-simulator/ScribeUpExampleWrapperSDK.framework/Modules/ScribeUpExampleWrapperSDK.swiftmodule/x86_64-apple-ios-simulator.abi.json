@@ -6,15 +6,18 @@
     "children": [
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
         "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK"
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported"
+        ]
       },
       {
         "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK"
       },
@@ -125,38 +128,20 @@
             "mangledName": "$ss9EscapableP"
           }
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported",
+          "RawDocComment"
+        ]
       }
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
-      "kind": "StringLiteral",
-      "offset": 425,
-      "length": 20,
-      "value": "\"[WRAPPER] Starting\""
-    },
-    {
-      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
-      "kind": "StringLiteral",
-      "offset": 840,
-      "length": 20,
-      "value": "\"https:\/\/google.com\""
-    },
-    {
-      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
-      "kind": "StringLiteral",
-      "offset": 887,
-      "length": 21,
-      "value": "\"SubscriptionManager\""
-    },
-    {
-      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1025,
-      "length": 4,
-      "value": "true"
-    }
-  ]
+  "ConstValues": []
 }
