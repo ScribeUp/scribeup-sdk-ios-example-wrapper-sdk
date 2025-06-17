@@ -1,0 +1,195 @@
+{
+  "ABIRoot": {
+    "kind": "Root",
+    "name": "ScribeUpExampleWrapperSDK",
+    "printedName": "ScribeUpExampleWrapperSDK",
+    "children": [
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "ScribeUpExampleWrapper",
+        "printedName": "ScribeUpExampleWrapper",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "onExit",
+            "printedName": "onExit(_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "ScribeUpSDK.SubscriptionManagerError?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SubscriptionManagerError",
+                    "printedName": "ScribeUpSDK.SubscriptionManagerError",
+                    "usr": "s:11ScribeUpSDK24SubscriptionManagerErrorV"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C6onExityy0abE024SubscriptionManagerErrorVSgF",
+            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C6onExityy0abE024SubscriptionManagerErrorVSgF",
+            "moduleName": "ScribeUpExampleWrapperSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Var",
+            "name": "shared",
+            "printedName": "shared",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "ScribeUpExampleWrapper",
+                "printedName": "ScribeUpExampleWrapperSDK.ScribeUpExampleWrapper",
+                "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C6sharedACvpZ",
+            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C6sharedACvpZ",
+            "moduleName": "ScribeUpExampleWrapperSDK",
+            "static": true,
+            "declAttributes": [
+              "HasInitialValue",
+              "Final",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ScribeUpExampleWrapper",
+                    "printedName": "ScribeUpExampleWrapperSDK.ScribeUpExampleWrapper",
+                    "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C6sharedACvgZ",
+                "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C6sharedACvgZ",
+                "moduleName": "ScribeUpExampleWrapperSDK",
+                "static": true,
+                "implicit": true,
+                "declAttributes": [
+                  "Final"
+                ],
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Function",
+            "name": "initialize",
+            "printedName": "initialize(message:in:duration:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "UIViewController",
+                "printedName": "UIKit.UIViewController",
+                "usr": "c:objc(cs)UIViewController"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Double",
+                "printedName": "Swift.Double",
+                "hasDefaultArg": true,
+                "usr": "s:Sd"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C10initialize7message2in8durationySS_So16UIViewControllerCSdtF",
+            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C10initialize7message2in8durationySS_So16UIViewControllerCSdtF",
+            "moduleName": "ScribeUpExampleWrapperSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C",
+        "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SubscriptionManagerDelegate",
+            "printedName": "SubscriptionManagerDelegate",
+            "usr": "s:11ScribeUpSDK27SubscriptionManagerDelegateP",
+            "mangledName": "$s11ScribeUpSDK27SubscriptionManagerDelegateP"
+          }
+        ]
+      }
+    ],
+    "json_format_version": 8
+  },
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-wrapper-sdk-example\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
+      "kind": "FloatLiteral",
+      "offset": 424,
+      "length": 3,
+      "value": "2.0"
+    }
+  ]
+}
