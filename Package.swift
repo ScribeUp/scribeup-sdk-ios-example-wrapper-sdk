@@ -2,19 +2,19 @@
  import PackageDescription
 
  let package = Package(
-     name: "ScribeUpSDK",
+     name: "ScribeUpExampleWrapperSDK",
      products: [
          .library(
-             name: "ScribeUpSDK",
-             targets: ["ScribeUpSDK"]
+             name: "ScribeUpExampleWrapperSDK",
+             targets: ["ScribeUpExampleWrapperSDK"]
          ),
      ],
      dependencies: [
      ],
      targets: [
         .binaryTarget(
-          name: "ScribeUpSDK",
-          path: "./Sources/ScribeUpSDK/ScribeUpSDK.xcframework"
+          name: "ScribeUpExampleWrapperSDK",
+          path: "./Sources/ScribeUpExampleWrapperSDK/ScribeUpExampleWrapperSDK.xcframework"
         ),
      ]
  )
