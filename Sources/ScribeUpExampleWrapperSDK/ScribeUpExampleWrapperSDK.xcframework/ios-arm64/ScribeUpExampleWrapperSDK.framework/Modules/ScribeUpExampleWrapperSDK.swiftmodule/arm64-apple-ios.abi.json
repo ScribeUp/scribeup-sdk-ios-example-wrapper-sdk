@@ -6,18 +6,15 @@
     "children": [
       {
         "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK",
-        "declAttributes": [
-          "Exported"
-        ]
+        "moduleName": "ScribeUpExampleWrapperSDK"
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK"
       },
@@ -168,17 +165,6 @@
             "usr": "s:11ScribeUpSDK27SubscriptionManagerDelegateP",
             "mangledName": "$s11ScribeUpSDK27SubscriptionManagerDelegateP"
           }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
-        "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK",
-        "declAttributes": [
-          "Exported",
-          "RawDocComment"
         ]
       }
     ],
