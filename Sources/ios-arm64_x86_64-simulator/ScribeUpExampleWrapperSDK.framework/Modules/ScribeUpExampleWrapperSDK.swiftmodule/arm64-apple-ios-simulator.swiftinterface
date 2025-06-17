@@ -11,6 +11,6 @@ import _SwiftConcurrencyShims
 @_hasMissingDesignatedInitializers public class ScribeUpExampleWrapper : ScribeUpSDK.SubscriptionManagerDelegate {
   public func onExit(_ error: ScribeUpSDK.SubscriptionManagerError?)
   public static let shared: ScribeUpExampleWrapperSDK.ScribeUpExampleWrapper
-  public func initialize(message: Swift.String, in viewController: UIKit.UIViewController, duration: Foundation.TimeInterval = 2.0)
+  public func initialize(in viewController: UIKit.UIViewController)
   @objc deinit
 }

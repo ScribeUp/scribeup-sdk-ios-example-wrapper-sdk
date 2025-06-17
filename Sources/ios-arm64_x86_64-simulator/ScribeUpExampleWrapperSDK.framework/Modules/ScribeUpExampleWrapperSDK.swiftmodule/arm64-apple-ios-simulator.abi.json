@@ -111,7 +111,7 @@
           {
             "kind": "Function",
             "name": "initialize",
-            "printedName": "initialize(message:in:duration:)",
+            "printedName": "initialize(in:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -120,27 +120,14 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              },
-              {
-                "kind": "TypeNominal",
                 "name": "UIViewController",
                 "printedName": "UIKit.UIViewController",
                 "usr": "c:objc(cs)UIViewController"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Double",
-                "printedName": "Swift.Double",
-                "hasDefaultArg": true,
-                "usr": "s:Sd"
               }
             ],
             "declKind": "Func",
-            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C10initialize7message2in8durationySS_So16UIViewControllerCSdtF",
-            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C10initialize7message2in8durationySS_So16UIViewControllerCSdtF",
+            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C10initialize2inySo16UIViewControllerC_tF",
+            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C10initialize2inySo16UIViewControllerC_tF",
             "moduleName": "ScribeUpExampleWrapperSDK",
             "declAttributes": [
               "AccessControl"
@@ -183,13 +170,5 @@
     ],
     "json_format_version": 8
   },
-  "ConstValues": [
-    {
-      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-wrapper-sdk-example\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
-      "kind": "FloatLiteral",
-      "offset": 424,
-      "length": 3,
-      "value": "2.0"
-    }
-  ]
+  "ConstValues": []
 }
