@@ -11,17 +11,6 @@
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "Exported",
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
-        "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK",
-        "declAttributes": [
           "Exported"
         ]
       },
@@ -138,6 +127,17 @@
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported",
+          "RawDocComment"
         ]
       }
     ],
