@@ -10,7 +10,7 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		sNYzO8d3GY01yyFa5FxdaPCAX70=
+		yui80QCfu0llYEkfGKiGATiRcKw=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -26,11 +26,11 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		s+fQX5W1DzNvtvJNoGxzM+WZLqE=
+		ikIGnIkiOrTqpzex5gSll6mq7gA=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		sNYzO8d3GY01yyFa5FxdaPCAX70=
+		yui80QCfu0llYEkfGKiGATiRcKw=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -46,7 +46,7 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		Dl4KF6RbNhzMO8eXko3aSPAi89U=
+		aCs9l50UPMnqIzF1A5/F04QiHSQ=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -55,7 +55,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DPfb0veqGg6rte0f32SWMXBl+qPD8jfhj0950VkI/E=
+			5S8jFzJ3eoQdRuAkviEd+gHlSuyWglHSk07LmCc5zFs=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -83,14 +83,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			cg0UQITAdvaADB7sUrCU4xgPn5AaBwwsJLMMyDx15tY=
+			aKfRLVsF5Jnap28D/lLF+hTKhZMO7u895fbGmOTiQw4=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			3DPfb0veqGg6rte0f32SWMXBl+qPD8jfhj0950VkI/E=
+			5S8jFzJ3eoQdRuAkviEd+gHlSuyWglHSk07LmCc5zFs=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
@@ -118,7 +118,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			eZiQIqS1avt7ZbXwNXTU7kLSgywnbRD+5LXmgj96XNs=
+			IY3RabuNyxWqotfxtZ0yCUX5KqgXskd7jmP8Jb5oy0o=
 			</data>
 		</dict>
 	</dict>
