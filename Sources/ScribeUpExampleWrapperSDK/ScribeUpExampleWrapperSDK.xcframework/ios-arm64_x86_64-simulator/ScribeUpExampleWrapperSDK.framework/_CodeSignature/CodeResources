@@ -10,7 +10,7 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		A94tDuR/vKIpoxtQeTelK5N8bWA=
+		yctCLW7frvAqRvBotufnzea9sKI=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -30,7 +30,7 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		A94tDuR/vKIpoxtQeTelK5N8bWA=
+		yctCLW7frvAqRvBotufnzea9sKI=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
@@ -55,11 +55,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A94tDuR/vKIpoxtQeTelK5N8bWA=
+			yctCLW7frvAqRvBotufnzea9sKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			fxSr7o5NA8zkQ2XL35Vpp6cJlfbl+Ezs09bc4ROGPog=
+			ptIRSB/kGXMOMUIERjxwSMLTn0SYGdM+dT9Q828A9kg=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
@@ -110,11 +110,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			A94tDuR/vKIpoxtQeTelK5N8bWA=
+			yctCLW7frvAqRvBotufnzea9sKI=
 			</data>
 			<key>hash2</key>
 			<data>
-			fxSr7o5NA8zkQ2XL35Vpp6cJlfbl+Ezs09bc4ROGPog=
+			ptIRSB/kGXMOMUIERjxwSMLTn0SYGdM+dT9Q828A9kg=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
