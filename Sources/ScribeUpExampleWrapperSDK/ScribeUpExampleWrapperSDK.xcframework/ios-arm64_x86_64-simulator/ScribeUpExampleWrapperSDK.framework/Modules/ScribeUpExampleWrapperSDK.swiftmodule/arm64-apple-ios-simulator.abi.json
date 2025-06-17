@@ -6,6 +6,27 @@
     "children": [
       {
         "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported",
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
