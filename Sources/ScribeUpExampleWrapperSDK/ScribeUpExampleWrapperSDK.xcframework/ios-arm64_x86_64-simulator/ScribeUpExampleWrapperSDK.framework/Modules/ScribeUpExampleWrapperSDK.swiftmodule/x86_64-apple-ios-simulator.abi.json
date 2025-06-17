@@ -24,40 +24,6 @@
         "printedName": "ScribeUpExampleWrapper",
         "children": [
           {
-            "kind": "Function",
-            "name": "onExit",
-            "printedName": "onExit(_:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "ScribeUpSDK.SubscriptionManagerError?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "SubscriptionManagerError",
-                    "printedName": "ScribeUpSDK.SubscriptionManagerError",
-                    "usr": "s:11ScribeUpSDK24SubscriptionManagerErrorV"
-                  }
-                ],
-                "usr": "s:Sq"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:25ScribeUpExampleWrapperSDK0abcD0C6onExityy0abE024SubscriptionManagerErrorVSgF",
-            "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C6onExityy0abE024SubscriptionManagerErrorVSgF",
-            "moduleName": "ScribeUpExampleWrapperSDK",
-            "declAttributes": [
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          },
-          {
             "kind": "Var",
             "name": "shared",
             "printedName": "shared",
@@ -157,18 +123,40 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SubscriptionManagerDelegate",
-            "printedName": "SubscriptionManagerDelegate",
-            "usr": "s:11ScribeUpSDK27SubscriptionManagerDelegateP",
-            "mangledName": "$s11ScribeUpSDK27SubscriptionManagerDelegateP"
           }
         ]
       }
     ],
     "json_format_version": 8
   },
-  "ConstValues": []
+  "ConstValues": [
+    {
+      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 425,
+      "length": 20,
+      "value": "\"[WRAPPER] Starting\""
+    },
+    {
+      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 840,
+      "length": 20,
+      "value": "\"https:\/\/google.com\""
+    },
+    {
+      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
+      "kind": "StringLiteral",
+      "offset": 887,
+      "length": 21,
+      "value": "\"SubscriptionManager\""
+    },
+    {
+      "filePath": "\/Users\/yoheioka\/scribeup\/phoenix\/scribeup-sdk-ios-example-wrapper-sdk-internal\/ScribeUpExampleWrapperSDK\/ScribeUpExampleWrapper.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1025,
+      "length": 4,
+      "value": "true"
+    }
+  ]
 }
