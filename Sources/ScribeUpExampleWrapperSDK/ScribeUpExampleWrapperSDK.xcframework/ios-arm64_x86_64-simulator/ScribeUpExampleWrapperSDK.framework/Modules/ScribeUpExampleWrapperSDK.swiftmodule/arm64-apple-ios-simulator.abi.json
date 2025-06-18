@@ -16,7 +16,10 @@
         "name": "ScribeUpSDK",
         "printedName": "ScribeUpSDK",
         "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK"
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
       },
       {
         "kind": "TypeDecl",
