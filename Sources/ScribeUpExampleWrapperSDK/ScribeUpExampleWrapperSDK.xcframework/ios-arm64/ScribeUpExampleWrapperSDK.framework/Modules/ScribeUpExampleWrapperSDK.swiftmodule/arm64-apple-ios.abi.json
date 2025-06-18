@@ -16,7 +16,11 @@
         "name": "ScribeUpSDK",
         "printedName": "ScribeUpSDK",
         "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK"
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported",
+          "RawDocComment"
+        ]
       },
       {
         "kind": "TypeDecl",
