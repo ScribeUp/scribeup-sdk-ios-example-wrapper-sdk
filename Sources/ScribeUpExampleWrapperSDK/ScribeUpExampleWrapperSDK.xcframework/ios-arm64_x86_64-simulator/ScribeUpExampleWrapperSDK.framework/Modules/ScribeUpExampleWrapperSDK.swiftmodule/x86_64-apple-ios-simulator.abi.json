@@ -6,19 +6,15 @@
     "children": [
       {
         "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK",
-        "declAttributes": [
-          "Exported",
-          "RawDocComment"
-        ]
+        "moduleName": "ScribeUpExampleWrapperSDK"
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK"
       },
@@ -110,8 +106,7 @@
         "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
+          "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
