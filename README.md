@@ -10,7 +10,7 @@ https://github.com/ScribeUp/scribeup-sdk-ios-example-wrapper-sdk
 
 Latest Version
 ```
-0.0.23
+0.0.24
 ```
 
 ```swift
