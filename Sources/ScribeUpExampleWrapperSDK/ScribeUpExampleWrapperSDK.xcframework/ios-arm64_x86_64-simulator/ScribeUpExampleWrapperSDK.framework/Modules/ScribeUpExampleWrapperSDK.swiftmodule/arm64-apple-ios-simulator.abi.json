@@ -18,7 +18,7 @@
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "AccessControl"
+          "ImplementationOnly"
         ]
       },
       {
