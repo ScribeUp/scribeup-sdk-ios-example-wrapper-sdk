@@ -18,8 +18,7 @@
         "declKind": "Import",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "Exported",
-          "RawDocComment"
+          "ImplementationOnly"
         ]
       },
       {
