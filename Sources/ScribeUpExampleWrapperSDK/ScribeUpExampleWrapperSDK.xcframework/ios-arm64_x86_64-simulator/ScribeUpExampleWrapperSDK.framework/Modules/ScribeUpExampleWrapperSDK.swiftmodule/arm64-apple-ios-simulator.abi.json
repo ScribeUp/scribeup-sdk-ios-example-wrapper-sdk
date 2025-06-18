@@ -12,6 +12,13 @@
         "moduleName": "ScribeUpExampleWrapperSDK"
       },
       {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK"
+      },
+      {
         "kind": "TypeDecl",
         "name": "ScribeUpExampleWrapper",
         "printedName": "ScribeUpExampleWrapper",
@@ -99,8 +106,7 @@
         "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "AccessControl",
-          "RawDocComment"
+          "AccessControl"
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
