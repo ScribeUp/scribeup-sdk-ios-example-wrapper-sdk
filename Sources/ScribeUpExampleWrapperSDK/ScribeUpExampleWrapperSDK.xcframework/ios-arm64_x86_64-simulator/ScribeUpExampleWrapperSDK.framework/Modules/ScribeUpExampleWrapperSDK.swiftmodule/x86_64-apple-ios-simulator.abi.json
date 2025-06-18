@@ -119,17 +119,6 @@
             "mangledName": "$ss9EscapableP"
           }
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
-        "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK",
-        "declAttributes": [
-          "Exported",
-          "RawDocComment"
-        ]
       }
     ],
     "json_format_version": 8
