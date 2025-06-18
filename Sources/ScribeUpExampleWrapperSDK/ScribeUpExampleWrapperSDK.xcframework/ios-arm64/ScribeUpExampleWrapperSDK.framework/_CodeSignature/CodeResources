@@ -10,11 +10,11 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		eLfZOJ29wIBxIA+wlre+CaPCkjI=
+		by+dw9n/Q3bQl5MCx92XxbeMNoM=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		G1ZuSuR59A+6hN11ty80h3al9vg=
+		VWtdHnHP4uifCE6mDJoqQv6z8Eo=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -22,11 +22,11 @@
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		G1ZuSuR59A+6hN11ty80h3al9vg=
+		VWtdHnHP4uifCE6mDJoqQv6z8Eo=
 		</data>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		Ew7Bm48rIGzAwMD4OvUbmKThnO8=
+		067lxXZJ7fqWqKDwLCJm5Vy79LE=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -35,22 +35,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			eLfZOJ29wIBxIA+wlre+CaPCkjI=
+			by+dw9n/Q3bQl5MCx92XxbeMNoM=
 			</data>
 			<key>hash2</key>
 			<data>
-			0/0fB1tdc/aGTjJPxPng3YjB7C3VpJQ9LJx1xwFp4Ak=
+			Tdie1M6jaXIdDYRNL3HhM19K3qveuIxr5BD+iYgo+xE=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			G1ZuSuR59A+6hN11ty80h3al9vg=
+			VWtdHnHP4uifCE6mDJoqQv6z8Eo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PdaCPdtLncCnfObT1p4ppvGxv6piE9Drnuk8P+yE9OA=
+			0B/q/7rU1B1Zn0dIFUMTAyq7pAsNqdiSrCnMCk20JvA=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -68,22 +68,22 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			G1ZuSuR59A+6hN11ty80h3al9vg=
+			VWtdHnHP4uifCE6mDJoqQv6z8Eo=
 			</data>
 			<key>hash2</key>
 			<data>
-			PdaCPdtLncCnfObT1p4ppvGxv6piE9Drnuk8P+yE9OA=
+			0B/q/7rU1B1Zn0dIFUMTAyq7pAsNqdiSrCnMCk20JvA=
 			</data>
 		</dict>
 		<key>Modules/ScribeUpExampleWrapperSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			Ew7Bm48rIGzAwMD4OvUbmKThnO8=
+			067lxXZJ7fqWqKDwLCJm5Vy79LE=
 			</data>
 			<key>hash2</key>
 			<data>
-			GrdztKueWv2wzzda0zr3Ug1nHUJq9Zl3TmjEKXy+v34=
+			fa1IzEKyuLr3fe7Zw+W9yYdIzaZtYPV3vGScfalCAwc=
 			</data>
 		</dict>
 	</dict>

@@ -12,13 +12,6 @@
         "moduleName": "ScribeUpExampleWrapperSDK"
       },
       {
-        "kind": "Import",
-        "name": "ScribeUpSDK",
-        "printedName": "ScribeUpSDK",
-        "declKind": "Import",
-        "moduleName": "ScribeUpExampleWrapperSDK"
-      },
-      {
         "kind": "TypeDecl",
         "name": "ScribeUpExampleWrapper",
         "printedName": "ScribeUpExampleWrapper",
@@ -106,7 +99,8 @@
         "mangledName": "$s25ScribeUpExampleWrapperSDK0abcD0C",
         "moduleName": "ScribeUpExampleWrapperSDK",
         "declAttributes": [
-          "AccessControl"
+          "AccessControl",
+          "RawDocComment"
         ],
         "hasMissingDesignatedInitializers": true,
         "conformances": [
@@ -124,6 +118,17 @@
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
           }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ScribeUpSDK",
+        "printedName": "ScribeUpSDK",
+        "declKind": "Import",
+        "moduleName": "ScribeUpExampleWrapperSDK",
+        "declAttributes": [
+          "Exported",
+          "RawDocComment"
         ]
       }
     ],
